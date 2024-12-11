@@ -1,7 +1,7 @@
 # CMPE-3815---Microcontroller-Systems-Final-Project
 
-Authors: Shea McGregor & Spencer Hart
-Course: CMPE 3815 - Microcontroller Systems
+Authors: Shea McGregor & Spencer Hart<br>
+Course: CMPE 3815 - Microcontroller Systems<br>
 Project: Final Project, RC Airplane
 
 The goal of this project was to construct and fly a remote-controlled airplane using radio frequency communication.
