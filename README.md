@@ -27,3 +27,5 @@ The components utilized include:
 - Stiff metal wire
 
 This repository includes various pictures of our design process, videos of testing, code files, and our final report.
+
+Each folder contains its own README file with information on the contents of that folder.
