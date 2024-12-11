@@ -1,6 +1,6 @@
 # Final Code
 
-## This folder contains the functioning communication and control code used to fly the airplane.
+## This folder contains the functioning communication and control code we wanted to use to fly the airplane.
 
 ### Files
 
