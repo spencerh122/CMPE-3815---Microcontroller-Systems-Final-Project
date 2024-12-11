@@ -4,7 +4,7 @@ Final Project Code: Testing of MPU6050
 
 This is not code included on the final running aircraft, but an attempt to get useful readings from the MPU6050.
 This is a mashup of code trying to get the MPU6050 to work correctly. 
-The MPU6050 Raw example code from https://github.com/melikabarzegaran/mpu6050-raw reads raw, drifting, error-filled data and transmits it to a
+The MPU6050 Raw example code from https://github.com/ElectronicCats/mpu6050/tree/master/examples/MPU6050_raw reads raw, drifting, error-filled data and transmits it to a
 Madgwick filter written by Nicholas Rehm (GitHub: https://github.com/nickrehm/dRehmFlight)
 */
 
