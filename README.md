@@ -1,4 +1,4 @@
-# CMPE-3815---Microcontroller-Systems-Final-Project
+# CMPE 3815 - Microcontroller Systems Final Project
 
 Authors: Shea McGregor & Spencer Hart<br>
 Course: CMPE 3815 - Microcontroller Systems<br>
